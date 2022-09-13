@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henock Nkoy</h1>
-<h3 align="center">I am a software developper passionate about web & mobile and Devops with much more experience in backend development with PHP using Laravel framework, i have intermediate level in frontend. +3 years experience as Software Developer</h3>
+<h4 align="center">I am a software developper passionate about web & mobile and Devops with much more experience in backend development with PHP using Laravel framework, i have intermediate level in frontend. +3 years experience as Software Developer</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hnkoy&label=Profile%20views&color=0e75b6&style=flat" alt="hnkoy" /> </p>
 
