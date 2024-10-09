@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **henocknkoy9@gmail.com**
 
-- 📄 Know about my experiences [https://henocknkoy.pro/](https://henocknkoy.site/)
+- 📄 Know about my experiences [https://henocknkoy.site/](https://henocknkoy.site/)
 
 - ⚡ Fun fact **I think i'm funny**
 
